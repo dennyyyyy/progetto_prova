@@ -22,7 +22,7 @@ namespace Wpf_4_GIT1
     {
         public MainWindow()
         {
-            InitializeComponent();
+            InitializeComponent();// è tutto buggato 
         }
     }
 }
